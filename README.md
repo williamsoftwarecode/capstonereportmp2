@@ -13,3 +13,12 @@ v1.0.1
 - Added Theory of EEG. 
 - Added EEG Device under Sensors. 
 - Added Results for EEG. 
+
+v.1.1.0
+- Restructured Capstone Report. 
+- Added Sections on Thermistor and Phase Shift Oscillator. 
+- Added Theory of PPG. 
+- Added PPG under Sensors. 
+- Added Results for PPG. 
+- Added content to Appendices. 
+- Added Literature Review Section. 
