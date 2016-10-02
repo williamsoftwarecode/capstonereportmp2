@@ -14,7 +14,7 @@ v1.0.1
 - Added EEG Device under Sensors. 
 - Added Results for EEG. 
 
-v.1.1.0
+v1.1.0
 - Restructured Capstone Report. 
 - Added Sections on Thermistor and Phase Shift Oscillator. 
 - Added Theory of PPG. 
@@ -22,3 +22,14 @@ v.1.1.0
 - Added Results for PPG. 
 - Added content to Appendices. 
 - Added Literature Review Section. 
+
+v1.2.0
+- Updated Literature Review Section. 
+- Updated EEG and PPG Sections with amendments. 
+- Completed Abstract. 
+- Completed Acknowledgement. 
+- Changed ordering of citations based on first mentions. 
+- Completed Benefits of a Wireless Implementation.
+- Added Comparison between Different Wireless Protocols
+- Added Discussion from different sections. 
+- Added Theory of Blood Temperature.
