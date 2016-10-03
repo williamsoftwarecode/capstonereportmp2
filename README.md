@@ -33,3 +33,17 @@ v1.2.0
 - Added Comparison between Different Wireless Protocols
 - Added Discussion from different sections. 
 - Added Theory of Blood Temperature.
+
+v1.2.1
+- Completed Conclusion. 
+- Resized figures. 
+- Transferred table from thermistor phase shift oscillator calibration to Appendix. 
+- Added Design Specifications. 
+- Added pictures of actual implementation. 
+- Added George's student number. :P 
+- Added EEG code in Software Section. 
+
+v1.2.2 
+- Added Portable Power Supply for Raspberry Pi 3 Model B in Appendix. 
+- Submission of Preliminary Report!!! 
+
