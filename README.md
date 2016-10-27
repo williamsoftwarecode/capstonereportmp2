@@ -47,3 +47,14 @@ v1.2.2
 - Added Portable Power Supply for Raspberry Pi 3 Model B in Appendix. 
 - Submission of Preliminary Report!!! 
 
+v2.0.0
+- First version of the Final Report 
+- Moved Software Section to Appendix.  
+- Added Alternative Terminals. 
+- Added EEG Appendix. 
+- Replaced pictures for PPG Results. 
+- Added Power Section to Raspberry Pi. 
+- Updated Literature Review Section. 
+- Moved Sensor to chapter before Terminal.
+- Updated bibliography style to ensure uniformity. 
+- Changed hyperlinks to hide boxes around reference links. 
